@@ -45,20 +45,20 @@ export default function DashboardPage() {
     if (!error && data) {
 
       // =========================
-      // Tambahan Ranking Manual
+      // Tambahan Ranking Manual (Diubah Menjadi Sampel Random)
       // =========================
 
       const rankingManual = [
         {
           id: 1001,
-          nama: 'Avissa',
-          npm: '51423336',
+          nama: 'Budi Santoso',
+          npm: '51423991',
           fakultas: 'Teknologi Industri',
           jurusan: 'Teknik Informatika',
-          kelas: '4IA18',
+          kelas: '4IA99',
           semester: 8,
           status: 'Lulus',
-          gender: 'Perempuan',
+          gender: 'Laki-laki',
           ipk: 3.86,
           nilai_a: 32,
           nilai_b: 6,
@@ -69,11 +69,11 @@ export default function DashboardPage() {
 
         {
           id: 1002,
-          nama: 'Karina',
-          npm: '31123733',
+          nama: 'Siti Aminah',
+          npm: '31123882',
           fakultas: 'Ilmu Komputer',
           jurusan: 'Sistem Informasi',
-          kelas: '4KA13',
+          kelas: '4KA98',
           semester: 8,
           status: 'Lulus',
           gender: 'Perempuan',
@@ -87,11 +87,11 @@ export default function DashboardPage() {
 
         {
           id: 1003,
-          nama: 'Johannes',
-          npm: '51422335',
+          nama: 'Rian Hidayat',
+          npm: '51422773',
           fakultas: 'Teknologi Industri',
           jurusan: 'Teknik Informatika',
-          kelas: '4IA14',
+          kelas: '4IA97',
           semester: 8,
           status: 'Lulus',
           gender: 'Laki-laki',
@@ -105,14 +105,14 @@ export default function DashboardPage() {
 
         {
           id: 1004,
-          nama: 'Naufal',
-          npm: '51422215',
+          nama: 'Dewi Lestari',
+          npm: '51422664',
           fakultas: 'Teknologi Industri',
           jurusan: 'Teknik Informatika',
-          kelas: '4IA14',
+          kelas: '4IA96',
           semester: 8,
           status: 'Lulus',
-          gender: 'Laki-laki',
+          gender: 'Perempuan',
           ipk: 3.83,
           nilai_a: 30,
           nilai_b: 7,
@@ -123,11 +123,11 @@ export default function DashboardPage() {
 
         {
           id: 1005,
-          nama: 'Khafidz',
-          npm: '51422373',
+          nama: 'Eko Prasetyo',
+          npm: '51422555',
           fakultas: 'Teknologi Industri',
           jurusan: 'Teknik Informatika',
-          kelas: '4IA14',
+          kelas: '4IA95',
           semester: 8,
           status: 'Lulus',
           gender: 'Laki-laki',
