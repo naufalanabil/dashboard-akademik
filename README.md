@@ -70,6 +70,6 @@ dashboard-akademik/
 ├── package.json
 └── README.md
 Author
-Email: Naufal@gmail.com  Password: naufal123
+Email: naufal@gmail.com  Password: naufal123
 
 Naufal Ardra Anabil
